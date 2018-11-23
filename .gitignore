@@ -1,2 +1,4 @@
 .vscode/
 hello_world/settings.py
+__pycache__
+*.pyc

@@ -1,0 +1,3 @@
+diango
+gunicorn
+django-heroku
